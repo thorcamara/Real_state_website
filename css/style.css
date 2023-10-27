@@ -130,3 +130,10 @@ button {
   z-index: var(--z-fixed);
   transition: .4s;
 }
+
+.nav {
+  height: var(--header-height);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
