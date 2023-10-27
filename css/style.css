@@ -87,3 +87,17 @@ button {
   outline: none;
   border: none;
 }
+
+.container {
+  max-width: 1024px;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.grid {
+  display: grid;
+}
+
+.section {
+  padding: 4.5rem 0 2rem;
+}
