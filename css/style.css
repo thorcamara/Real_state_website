@@ -116,3 +116,7 @@ button {
   font-size: var(--small-font-size);
   color: var(--second-color);
 }
+
+.main {
+  overflow: hidden;
+}
