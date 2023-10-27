@@ -137,3 +137,11 @@ button {
   justify-content: space-between;
   align-items: center;
 }
+
+.nav__logo {
+  display: inline-flex;
+  align-items: center;
+  column-gap: .25rem;
+  font-weight: var(--font-medium);
+  transition: .3s;
+}
