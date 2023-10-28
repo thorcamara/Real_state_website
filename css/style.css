@@ -194,3 +194,8 @@ button {
               hsl(0, 0%, 6%) 30%);
   padding-bottom: 0;
 }
+
+.home__container {
+  padding-top: 4rem;
+  row-gap: 3.5rem;
+}
