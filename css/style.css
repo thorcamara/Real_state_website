@@ -181,4 +181,8 @@ button {
     padding: .5rem;
     border-radius: 50%;
   }
+
+  .nav__link span {
+    display: none;
+  }
 }
