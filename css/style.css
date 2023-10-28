@@ -145,3 +145,7 @@ button {
   font-weight: var(--font-medium);
   transition: .3s;
 }
+
+.nav__logo i {
+  font-size: 1rem;
+}
