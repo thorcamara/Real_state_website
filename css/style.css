@@ -174,4 +174,11 @@ button {
     justify-content: space-between;
     align-items: center;
   }
+
+  .nav__link {
+    color: var(--text-color);
+    display: flex;
+    padding: .5rem;
+    border-radius: 50%;
+  }
 }
