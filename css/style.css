@@ -199,3 +199,7 @@ button {
   padding-top: 4rem;
   row-gap: 3.5rem;
 }
+
+.home__title, .home__value-number {
+  color: #fff;
+}
