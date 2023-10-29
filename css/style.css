@@ -247,3 +247,7 @@ button {
   column-gap: 2.5rem;
 }
 
+.home__value-number {
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-medium);
+}
