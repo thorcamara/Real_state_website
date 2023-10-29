@@ -231,3 +231,9 @@ button {
   color: var(--first-color);
 }
 
+.home__search-input {
+  width: 90%;
+  background-color: var(--body-color);
+  color: var(--text-color);
+  margin: 0 .5rem;
+}
