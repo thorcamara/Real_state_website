@@ -225,3 +225,9 @@ button {
   border: 3px solid var(--text-color-light);
   margin-bottom: 2rem;
 }
+
+.home__search i {
+  font-size: 1.25rem;
+  color: var(--first-color);
+}
+
