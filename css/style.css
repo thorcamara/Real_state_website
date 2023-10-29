@@ -241,3 +241,9 @@ button {
 .home__search-input::placeholder {
   color: var(--text-color-light);
 }
+
+.home__value {
+  display: flex;
+  column-gap: 2.5rem;
+}
+
