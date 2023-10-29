@@ -237,3 +237,7 @@ button {
   color: var(--text-color);
   margin: 0 .5rem;
 }
+
+.home__search-input::placeholder {
+  color: var(--text-color-light);
+}
