@@ -210,3 +210,8 @@ button {
   line-height: 120%;
   margin-bottom: 1.25rem;
 }
+
+.home__description {
+  color: var(--text-color-light);
+  margin-bottom: 2rem;
+}
