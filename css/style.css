@@ -255,3 +255,9 @@ button {
 .home__value-number span {
   color: var(--second-color);
 }
+
+.home__value-description {
+  display: flex;
+  color: var(--text-color-light);
+  font-size: var(--small-font-size);
+}
