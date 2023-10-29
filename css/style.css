@@ -261,3 +261,9 @@ button {
   color: var(--text-color-light);
   font-size: var(--small-font-size);
 }
+
+.home__images {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
