@@ -267,3 +267,12 @@ button {
   display: flex;
   justify-content: center;
 }
+
+.home__orbe {
+  width: 265px;
+  height: 284px;
+  background: linear-gradient(180deg,
+              hsl(0, 0%, 16%) 93%,
+              hsl(0, 0%, 67%) 100%);
+  border-radius: 135px 135px 0 0;
+}
