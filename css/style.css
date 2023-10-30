@@ -183,6 +183,10 @@ button {
     border-radius: 50%;
   }
 
+  .nav__link i {
+    font-size: 1.25rem;
+  }
+
   .nav__link span {
     display: none;
   }
@@ -272,8 +276,8 @@ button {
   width: 265px;
   height: 284px;
   background: linear-gradient(180deg,
-              hsl(0, 0%, 16%) 93%,
-              hsl(0, 0%, 67%) 100%);
+      hsl(0, 0%, 16%) 93%,
+      hsl(0, 0%, 67%) 100%);
   border-radius: 135px 135px 0 0;
 }
 
@@ -292,8 +296,8 @@ button {
 .button {
   display: inline-block;
   background: linear-gradient(101deg,
-              hsl(228, 66%, 53%),
-              hsl(228, 66%, 47%));
+      hsl(228, 66%, 53%),
+      hsl(228, 66%, 47%));
   color: #fff;
   padding: 14px 28px;
   border-radius: .5rem;
