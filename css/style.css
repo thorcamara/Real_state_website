@@ -324,3 +324,10 @@ button {
 .nav__button {
   display: none;
 }
+
+.logos__container {
+  padding-top: 2rem;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem 2rem;
+  justify-content: center;
+}
