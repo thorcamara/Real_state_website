@@ -307,3 +307,7 @@ button {
 .button:hover {
   box-shadow: 0 4px 12px hsla(228, 66%, 45%, .25);
 }
+
+.nav__button {
+  display: none;
+}
