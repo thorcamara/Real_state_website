@@ -192,6 +192,11 @@ button {
   }
 }
 
+.scroll-header {
+  background-color: var(--body-color);
+  box-shadow: 0 1px 4px hsla(228, 4%, 15%, .1);
+}
+
 .home {
   background: linear-gradient(170deg,
       hsl(0, 0%, 22%) 0%,
