@@ -341,3 +341,7 @@ button {
 .logos__img img:hover {
   opacity: .6;
 }
+
+.popular__container {
+  padding: 1rem 0 5rem;
+}
