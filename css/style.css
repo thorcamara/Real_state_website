@@ -303,3 +303,7 @@ button {
   transition: .3s;
   cursor: pointer;
 }
+
+.button:hover {
+  box-shadow: 0 4px 12px hsla(228, 66%, 45%, .25);
+}
