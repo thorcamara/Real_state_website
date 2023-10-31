@@ -369,3 +369,7 @@ button {
   color: var(--text-color);
   margin-bottom: .25rem;
 }
+
+.popular__price span {
+  color: var(--second-color);
+}
