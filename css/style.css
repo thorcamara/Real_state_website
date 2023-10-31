@@ -378,3 +378,7 @@ button {
   font-size: var(--h3-font-size);
   margin-bottom: .75rem;
 }
+
+.popular__description {
+  font-size: var(--small-font-size);
+}
