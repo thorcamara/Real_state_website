@@ -359,3 +359,7 @@ button {
   border-radius: 1rem;
   margin-bottom: 1rem;
 }
+
+.popular__data {
+  padding: 0 1rem 0 .5rem;
+}
