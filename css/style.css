@@ -363,3 +363,9 @@ button {
 .popular__data {
   padding: 0 1rem 0 .5rem;
 }
+
+.popular__price {
+  font-size: var(--h2-font-size);
+  color: var(--text-color);
+  margin-bottom: .25rem;
+}
