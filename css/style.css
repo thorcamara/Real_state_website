@@ -354,3 +354,8 @@ button {
   margin: 0 auto;
   transition: .4s;
 }
+
+.popular__img {
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+}
