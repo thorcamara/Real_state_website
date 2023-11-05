@@ -396,3 +396,9 @@ button {
   display: flex;
   justify-content: center;
 }
+
+.value__orbe {
+  width: 266px;
+  height: 316px;
+  background-color: hsl(228, 24%, 97%);
+}
