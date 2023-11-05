@@ -390,3 +390,9 @@ button {
 .value__container {
   row-gap: 3rem;
 }
+
+.value__images {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
