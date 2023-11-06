@@ -431,3 +431,9 @@ button {
   border-radius: .5rem;
   padding: 1rem .75rem;
 }
+
+.value__accordion-header {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
