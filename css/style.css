@@ -481,3 +481,7 @@ button {
 .accordion-open {
   box-shadow: 0 12px 32px hsla(228, 66%, 45%, .1);
 }
+
+.accordion-open .value__accordion-icon {
+  box-shadow: 0 4px 4px hsla(228, 66%, 45%, .1);
+}
