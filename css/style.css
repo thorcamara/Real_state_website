@@ -477,3 +477,7 @@ button {
   height: 0;
   transition: all .25s ease;
 }
+
+.accordion-open {
+  box-shadow: 0 12px 32px hsla(228, 66%, 45%, .1);
+}
