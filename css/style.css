@@ -462,3 +462,7 @@ button {
   margin-left: auto;
   transition: .3s;
 }
+
+.value__accordion-arrow i {
+  transition: .4s;
+}
