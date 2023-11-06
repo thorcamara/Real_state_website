@@ -466,3 +466,8 @@ button {
 .value__accordion-arrow i {
   transition: .4s;
 }
+
+.value__accordion-description {
+  font-size: var(--smaller-font-size);
+  padding: 1.25rem 2.5rem 0 2.75rem;
+}
