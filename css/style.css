@@ -471,3 +471,9 @@ button {
   font-size: var(--smaller-font-size);
   padding: 1.25rem 2.5rem 0 2.75rem;
 }
+
+.value__accordion-content {
+  overflow: hidden;
+  height: 0;
+  transition: all .25s ease;
+}
