@@ -437,3 +437,13 @@ button {
   align-items: center;
   cursor: pointer;
 }
+
+.value__accordion-icon {
+  background-color: var(--first-color-lighten);
+  padding: 5px;
+  border-radius: .25rem;
+  font-size: 18px;
+  color: var(--first-color);
+  margin-right: .75rem;
+  transition: .3s;
+}
