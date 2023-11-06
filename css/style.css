@@ -419,3 +419,8 @@ button {
   font-size: var(--small-font-size);
   margin-bottom: 2rem;
 }
+
+.value__accordion {
+  display: grid;
+  row-gap: 1.5rem;
+}
