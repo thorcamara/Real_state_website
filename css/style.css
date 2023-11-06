@@ -489,3 +489,7 @@ button {
 .accordion-open .value__accordion-arrow {
   box-shadow: 0 2px 4px hsla(228, 66%, 45%, .1);
 }
+
+.accordion-open .value__accordion-arrow i {
+  transform: rotate(-180deg);
+}
