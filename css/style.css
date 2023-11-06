@@ -447,3 +447,7 @@ button {
   margin-right: .75rem;
   transition: .3s;
 }
+
+.value__accordion-title {
+  font-size: var(--small-font-size);
+}
