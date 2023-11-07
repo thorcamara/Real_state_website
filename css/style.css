@@ -559,3 +559,7 @@ button {
 .contact__card-title {
   font-size: var(--normal-font-size);
 }
+
+.contact__card-description {
+  font-size: var(--smaller-font-size);
+}
