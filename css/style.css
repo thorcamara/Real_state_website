@@ -497,3 +497,9 @@ button {
 .contact__container {
   row-gap: 2rem;
 }
+
+.contact__images {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
