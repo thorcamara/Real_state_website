@@ -540,3 +540,10 @@ button {
   border-radius: .5rem;
   transition: .3s;
 }
+
+.contact__card-info {
+  display: flex;
+  align-items: flex-start;
+  column-gap: .75rem;
+  margin-bottom: 1.25rem;
+}
