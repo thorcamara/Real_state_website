@@ -526,3 +526,9 @@ button {
   font-size: var(--small-font-size);
   margin-bottom: 2.5rem;
 }
+
+.contact__card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.25rem .75rem;
+}
