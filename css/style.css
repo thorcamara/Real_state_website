@@ -521,3 +521,8 @@ button {
   margin: auto;
   box-shadow: 0 16px 32px hsla(228, 66%, 25%, .25);
 }
+
+.contact__description {
+  font-size: var(--small-font-size);
+  margin-bottom: 2.5rem;
+}
