@@ -555,3 +555,7 @@ button {
   font-size: 1.25rem;
   color: var(--first-color);
 }
+
+.contact__card-title {
+  font-size: var(--normal-font-size);
+}
