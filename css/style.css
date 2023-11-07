@@ -493,3 +493,7 @@ button {
 .accordion-open .value__accordion-arrow i {
   transform: rotate(-180deg);
 }
+
+.contact__container {
+  row-gap: 2rem;
+}
