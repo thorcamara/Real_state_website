@@ -574,3 +574,8 @@ button {
   font-weight: var(--font-semi-bold);
   box-shadow: none;
 }
+
+.contact__card-button:hover {
+  background-color: var(--first-color);
+  color: #fff;
+}
