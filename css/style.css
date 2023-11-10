@@ -607,3 +607,9 @@ button {
   font-size: var(--small-font-size);
   margin-bottom: 2rem;
 }
+
+.subscribe__button {
+  border: 2px solid #fff;
+  background: var(--first-color-light);
+  font-size: var(--small-font-size);
+}
