@@ -665,3 +665,7 @@ button {
   color: var(--text-color);
   transition: .3s;
 }
+
+.footer__link:hover {
+  color: var(--title-color);
+}
