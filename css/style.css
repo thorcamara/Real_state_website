@@ -631,3 +631,7 @@ button {
   column-gap: .25rem;
   margin-bottom: .75rem;
 }
+
+.footer__logo i {
+  font-size: 1.25rem;
+}
