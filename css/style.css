@@ -641,3 +641,8 @@ button {
   font-size: var(--small-font-size);
   font-weight: var(--font-medium);
 }
+
+.font__content,
+.footer__links {
+  display: grid;
+}
