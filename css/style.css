@@ -651,3 +651,8 @@ button {
   grid-template-columns: repeat(2, max-content);
   gap: 2.5rem 4rem;
 }
+
+.footer__title {
+  font-size: var(--h3-font-size);
+  margin-bottom: 1rem;
+}
