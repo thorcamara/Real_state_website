@@ -660,3 +660,8 @@ button {
 .footer__links {
   row-gap: .5rem;
 }
+
+.footer__link {
+  color: var(--text-color);
+  transition: .3s;
+}
