@@ -646,3 +646,8 @@ button {
 .footer__links {
   display: grid;
 }
+
+.footer__content {
+  grid-template-columns: repeat(2, max-content);
+  gap: 2.5rem 4rem;
+}
