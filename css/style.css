@@ -656,3 +656,7 @@ button {
   font-size: var(--h3-font-size);
   margin-bottom: 1rem;
 }
+
+.footer__links {
+  row-gap: .5rem;
+}
