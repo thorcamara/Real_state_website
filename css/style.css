@@ -717,3 +717,9 @@ button {
   justify-content: center;
   column-gap: 1.25rem;
 }
+
+::-webkit-scrollbar {
+  width: .6rem;
+  border-radius: .5rem;
+  background-color: hsl(228, 8%, 76%);
+}
