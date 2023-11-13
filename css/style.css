@@ -723,3 +723,8 @@ button {
   border-radius: .5rem;
   background-color: hsl(228, 8%, 76%);
 }
+
+::-webkit-scrollbar-thumb {
+  background-color: hsl(228, 8%, 64%);
+  border-radius: .5rem;
+}
