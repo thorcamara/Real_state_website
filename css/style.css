@@ -680,3 +680,7 @@ button {
   columns: var(--text-color);
   transition: .3s;
 }
+
+.footer__social-link:hover {
+  color: var(--title-color);
+}
