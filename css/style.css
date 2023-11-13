@@ -684,3 +684,8 @@ button {
 .footer__social-link:hover {
   color: var(--title-color);
 }
+
+.footer__info,
+.footer__privacy {
+  display: flex;
+}
