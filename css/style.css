@@ -689,3 +689,11 @@ button {
 .footer__privacy {
   display: flex;
 }
+
+.footer__info {
+  padding-bottom: 6rem;
+  margin-top: 5.5rem;
+  flex-direction: column;
+  text-align: center;
+  row-gap: 1.5rem;
+}
