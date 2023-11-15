@@ -748,3 +748,7 @@ button {
   transform: translateY(-.25rem);
   color: var(--first-color);
 }
+
+.show-scroll {
+  bottom: 8rem;
+}
