@@ -94,6 +94,13 @@ button {
   margin-right: 1.5rem;
 }
 
+.change-theme {
+  font-size: 1.25rem;
+  color: #fff;
+  cursor: pointer;
+  transition: .3s;
+}
+
 .grid {
   display: grid;
 }
