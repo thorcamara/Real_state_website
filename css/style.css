@@ -743,3 +743,8 @@ button {
   z-index: var(--z-tooltip);
   transition: .3s;
 }
+
+.scrollup:hover {
+  transform: translateY(-.25rem);
+  color: var(--first-color);
+}
