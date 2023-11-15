@@ -63,3 +63,9 @@ function scrollActive() {
   })
 }
 window.addEventListener('scroll', scrollActive)
+
+function scrollUp() {
+  const scrollUp = document.getElementById('scroll-up');
+  if(this.scrollY >= 350) scrollUp.classList.add('show-scroll');
+}
+window.addEventListener('scroll', scrollUp)
