@@ -120,7 +120,9 @@ body.dark-theme {
 .dark-theme .value__accordion-icon,
 .dark-theme .value__accordion-arrow,
 .dark-theme .contact__orbe,
-.dark-theme .contact__card i {
+.dark-theme .contact__card i,
+.dark-theme .contact__card-button,
+.dark-theme .subscribe__container {
   background-color: var(--container-color);
 }
 
