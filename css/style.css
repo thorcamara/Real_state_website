@@ -836,4 +836,8 @@ body.dark-theme {
   .section {
     padding: 3.5rem 0 1rem;
   }
+
+  .home {
+    padding-bottom: 0;
+  }
 }
