@@ -135,6 +135,10 @@ body.dark-theme {
   color: var(--text-color);
 }
 
+.dark-theme::-webkit-scrollbar {
+  background-color: hsl(228, 4%, 15%);
+}
+
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
