@@ -98,6 +98,12 @@ body.dark-theme {
   --container-color: hsl(228, 16%, 12%);
 }
 
+.dark-theme .home__search,
+.dark-theme .swiper-button-next,
+.dark-theme .swiper-button-prev {
+  border: 3px solid var(--border-color);
+}
+
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
