@@ -126,6 +126,10 @@ body.dark-theme {
   background-color: var(--container-color);
 }
 
+.dark-theme .subscribe__container {
+  border: 5px solid var(--border-color);
+}
+
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
