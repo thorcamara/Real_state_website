@@ -130,6 +130,10 @@ body.dark-theme {
   border: 5px solid var(--border-color);
 }
 
+.dark-theme .subscribe__description {
+  color: var(--text-color);
+}
+
 .container {
   max-width: 1024px;
   margin-left: 1.5rem;
