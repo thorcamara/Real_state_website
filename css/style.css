@@ -832,4 +832,8 @@ body.dark-theme {
     margin-left: 1rem;
     margin-right: 1rem;
   }
+
+  .section {
+    padding: 3.5rem 0 1rem;
+  }
 }
