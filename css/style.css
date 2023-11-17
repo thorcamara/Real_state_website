@@ -107,8 +107,17 @@ body.dark-theme {
 .dark-theme .nav__menu,
 .dark-theme .home__img,
 .dark-theme .popular__card:hover,
-.dark-theme .value__img {
+.dark-theme .value__img,
+.dark-theme .accordion-open,
+.dark-theme .accordion-open .value__accordion-icon,
+.dark-theme .accordion-open .value__accordion-arrow,
+.dark-theme .contact__img,
+.dark-theme .contact__card-box:hover {
   box-shadow: none;
+}
+
+.dark-theme .value__orbe {
+  background-color: var(--container-color);
 }
 
 .container {
