@@ -840,4 +840,9 @@ body.dark-theme {
   .home {
     padding-bottom: 0;
   }
+
+  .contact__card {
+    grid-template-columns: repeat(1, 180px);
+    justify-content: center;
+  }
 }
