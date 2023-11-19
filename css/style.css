@@ -855,4 +855,9 @@ body.dark-theme {
   .home__value {
     column-gap: 1rem;
   }
+
+  .home__img {
+    width: 220px;
+    height: 280px;
+  }
 }
