@@ -851,4 +851,8 @@ body.dark-theme {
   .nav__menu {
     padding: 1.3rem 1.5rem;
   }
+
+  .home__value {
+    column-gap: 1rem;
+  }
 }
