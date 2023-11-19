@@ -865,4 +865,8 @@ body.dark-theme {
     width: 240px;
     height: 280px;
   }
+
+  .logos__container {
+    gap: 2rem 1rem;
+  }
 }
