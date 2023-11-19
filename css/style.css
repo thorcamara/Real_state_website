@@ -846,3 +846,9 @@ body.dark-theme {
     justify-content: center;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .nav__menu {
+    padding: 1.3rem 1.5rem;
+  }
+}
