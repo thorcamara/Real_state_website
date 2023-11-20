@@ -924,4 +924,8 @@ body.dark-theme {
   .home__orbe {
     align-self: flex-end;
   }
+
+  .home__data {
+    padding-bottom: 2rem;
+  }
 }
