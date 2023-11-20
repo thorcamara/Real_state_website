@@ -895,3 +895,9 @@ body.dark-theme {
     gap: 2.5rem;
   }
 }
+
+@media screen and (min-width: 576px) {
+  .nav__menu {
+    width: 342px;
+  }
+}
