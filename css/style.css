@@ -934,7 +934,8 @@ body.dark-theme {
     justify-content: center;
   }
 
-  .value__container {
+  .value__container,
+  .contact__container {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
