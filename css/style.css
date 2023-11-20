@@ -920,4 +920,8 @@ body.dark-theme {
     grid-template-columns: repeat(2, 1fr);
     padding-top: 2rem;
   }
+
+  .home__orbe {
+    align-self: flex-end;
+  }
 }
