@@ -869,4 +869,9 @@ body.dark-theme {
   .logos__container {
     gap: 2rem 1rem;
   }
+
+  .popular__card {
+    width: 230px;
+    padding: .5rem .5rem .75rem;
+  }
 }
