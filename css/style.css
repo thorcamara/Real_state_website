@@ -943,4 +943,8 @@ body.dark-theme {
   .contact__images {
     order: 1;
   }
+
+  .contact__card {
+    justify-content: initial;
+  }
 }
