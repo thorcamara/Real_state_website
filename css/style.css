@@ -881,7 +881,8 @@ body.dark-theme {
     height: 260px;
   }
 
-  .value__orbe {
+  .value__orbe,
+  .contact__orbe {
     width: 236px;
     height: 280px;
   }
