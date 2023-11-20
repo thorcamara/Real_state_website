@@ -928,4 +928,9 @@ body.dark-theme {
   .home__data {
     padding-bottom: 2rem;
   }
+
+  .logos__container {
+    grid-template-columns: repeat(4, max-content);
+    justify-content: center;
+  }
 }
