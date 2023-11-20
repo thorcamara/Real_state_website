@@ -874,4 +874,9 @@ body.dark-theme {
     width: 230px;
     padding: .5rem .5rem .75rem;
   }
+
+  .value__img {
+    width: 220px;
+    height: 260px;
+  }
 }
