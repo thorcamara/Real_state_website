@@ -900,4 +900,8 @@ body.dark-theme {
   .nav__menu {
     width: 342px;
   }
+
+  .home__search {
+    width: 412px;
+  }
 }
