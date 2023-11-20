@@ -904,4 +904,9 @@ body.dark-theme {
   .home__search {
     width: 412px;
   }
+
+  .contact__card {
+    grid-template-columns: repeat(2, 192px);
+    justify-content: center;
+  }
 }
