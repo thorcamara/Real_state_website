@@ -890,4 +890,8 @@ body.dark-theme {
   .subscribe__container {
     padding: 2rem 1rem;
   }
+
+  .footer__content {
+    gap: 2.5rem;
+  }
 }
