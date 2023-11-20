@@ -909,4 +909,8 @@ body.dark-theme {
     grid-template-columns: repeat(2, 192px);
     justify-content: center;
   }
+
+  .footer__content {
+    grid-template-columns: repeat(3, max-content);
+  }
 }
