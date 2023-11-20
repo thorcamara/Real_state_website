@@ -947,4 +947,8 @@ body.dark-theme {
   .contact__card {
     justify-content: initial;
   }
+
+  .subscribe__container {
+    padding: 3rem 13rem;
+  }
 }
