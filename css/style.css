@@ -939,4 +939,8 @@ body.dark-theme {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
   }
+
+  .contact__images {
+    order: 1;
+  }
 }
