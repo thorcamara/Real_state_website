@@ -886,4 +886,8 @@ body.dark-theme {
     width: 236px;
     height: 280px;
   }
+
+  .subscribe__container {
+    padding: 2rem 1rem;
+  }
 }
