@@ -951,4 +951,9 @@ body.dark-theme {
   .subscribe__container {
     padding: 3rem 13rem;
   }
+
+  .footer__container {
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+  }
 }
