@@ -992,4 +992,8 @@ body.dark-theme {
   .nav__link i {
     display: none;
   }
+
+  .nav__button {
+    display: inline-block;
+  }
 }
