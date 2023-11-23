@@ -1008,4 +1008,8 @@ body.dark-theme {
     margin: 0 3rem;
     color: var(--text-color-light);
   }
+
+  .scroll-header .nav__link {
+    color: var(--text-color);
+  }
 }
