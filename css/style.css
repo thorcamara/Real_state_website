@@ -996,4 +996,11 @@ body.dark-theme {
   .nav__button {
     display: inline-block;
   }
+
+  .active-link {
+    background: none;
+    box-shadow: none;
+    color: var(--first-color);
+    font-weight: var(--font-medium);
+  }
 }
