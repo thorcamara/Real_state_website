@@ -1003,4 +1003,9 @@ body.dark-theme {
     color: var(--first-color);
     font-weight: var(--font-medium);
   }
+
+  .change-theme {
+    margin: 0 3rem;
+    color: var(--text-color-light);
+  }
 }
