@@ -979,4 +979,9 @@ body.dark-theme {
     width: initial;
     margin-left: auto;
   }
+
+  .nav__list {
+    display: flex;
+    column-gap: 3rem;
+  }
 }
