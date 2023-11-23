@@ -957,3 +957,9 @@ body.dark-theme {
     justify-content: space-between;
   }
 }
+
+@media screen and (min-width: 1023px) {
+  .section {
+    padding: 7.5rem 0 1rem;
+  }
+}
