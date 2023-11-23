@@ -988,4 +988,8 @@ body.dark-theme {
   .nav__link {
     color: var(--text-color-light);
   }
+
+  .nav__link i {
+    display: none;
+  }
 }
