@@ -1029,4 +1029,8 @@ body.dark-theme {
   .home__data {
     padding-bottom: 4rem;
   }
+
+  .home__title {
+    margin-bottom: 2rem;
+  }
 }
