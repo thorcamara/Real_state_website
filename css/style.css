@@ -1033,4 +1033,9 @@ body.dark-theme {
   .home__title {
     margin-bottom: 2rem;
   }
+
+  .home__description,
+  .home__search {
+    margin-bottom: 3rem;
+  }
 }
