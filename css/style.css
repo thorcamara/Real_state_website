@@ -1020,4 +1020,9 @@ body.dark-theme {
   .home {
     padding-bottom: 0;
   }
+
+  .home__container {
+    padding-top: 5rem;
+    column-gap: 2rem;
+  }
 }
