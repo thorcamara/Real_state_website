@@ -1016,4 +1016,8 @@ body.dark-theme {
   .scroll-header .active-link {
     color: var(--first-color);
   }
+
+  .home {
+    padding-bottom: 0;
+  }
 }
