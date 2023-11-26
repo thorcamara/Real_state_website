@@ -1038,4 +1038,8 @@ body.dark-theme {
   .home__search {
     margin-bottom: 3rem;
   }
+
+  .home__value {
+    column-gap: 3.5rem;
+  }
 }
