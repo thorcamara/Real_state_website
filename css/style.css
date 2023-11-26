@@ -1025,4 +1025,8 @@ body.dark-theme {
     padding-top: 5rem;
     column-gap: 2rem;
   }
+
+  .home__data {
+    padding-bottom: 4rem;
+  }
 }
