@@ -1042,4 +1042,10 @@ body.dark-theme {
   .home__value {
     column-gap: 3.5rem;
   }
+
+  .home__orbe {
+    width: 504px;
+    height: 611px;
+    border-radius: 256px 256px 0 0;
+  }
 }
