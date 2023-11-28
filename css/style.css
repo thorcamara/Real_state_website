@@ -1059,4 +1059,8 @@ body.dark-theme {
   .logos__img img {
     height: 100px;
   }
+
+  .popular__container {
+    padding-top: 3rem;
+  }
 }
