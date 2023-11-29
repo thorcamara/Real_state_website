@@ -1072,4 +1072,9 @@ body.dark-theme {
   .popular__data {
     padding: 0 .25rem 0 .75rem;
   }
+
+  .value__container {
+    align-items: flex-start;
+    column-gap: 5rem;
+  }
 }
