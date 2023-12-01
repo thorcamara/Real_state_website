@@ -1077,4 +1077,10 @@ body.dark-theme {
     align-items: flex-start;
     column-gap: 5rem;
   }
+
+  .value__orbe {
+    width: 501px;
+    height: 641px;
+    border-radius: 258px 258px 16px 16px;
+  }
 }
