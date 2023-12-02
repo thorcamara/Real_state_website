@@ -1083,4 +1083,10 @@ body.dark-theme {
     height: 641px;
     border-radius: 258px 258px 16px 16px;
   }
+
+  .value__img {
+    width: 461px;
+    height: 601px;
+    border-radius: 238px 238px 12px 12px;
+  }
 }
