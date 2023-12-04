@@ -1094,4 +1094,9 @@ body.dark-theme {
     max-width: initial;
     width: 490px;
   }
+
+  .value__description {
+    font-size: var(--normal-font-size);
+    margin-bottom: 2.5rem;
+  }
 }
