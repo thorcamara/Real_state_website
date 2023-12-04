@@ -1099,4 +1099,8 @@ body.dark-theme {
     font-size: var(--normal-font-size);
     margin-bottom: 2.5rem;
   }
+
+  .value__accordion-title {
+    font-size: var(--normal-font-size);
+  }
 }
