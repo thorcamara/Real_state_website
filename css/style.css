@@ -1103,4 +1103,8 @@ body.dark-theme {
   .value__accordion-title {
     font-size: var(--normal-font-size);
   }
+
+  .value__accordion-item {
+    padding: 1.25rem 1.25rem 1.25rem 1rem;
+  }
 }
