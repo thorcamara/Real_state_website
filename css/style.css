@@ -1107,4 +1107,9 @@ body.dark-theme {
   .value__accordion-item {
     padding: 1.25rem 1.25rem 1.25rem 1rem;
   }
+
+  .value__accordion-description {
+    padding-bottom: 1rem;
+    font-size: var(--small-font-size);
+  }
 }
