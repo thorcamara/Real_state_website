@@ -1073,7 +1073,8 @@ body.dark-theme {
     padding: 0 .25rem 0 .75rem;
   }
 
-  .value__container {
+  .value__container,
+  .contact__container {
     align-items: flex-start;
     column-gap: 5rem;
   }
