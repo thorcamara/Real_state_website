@@ -1079,7 +1079,8 @@ body.dark-theme {
     column-gap: 5rem;
   }
 
-  .value__orbe {
+  .value__orbe,
+  .contact__orbe {
     width: 501px;
     height: 641px;
     border-radius: 258px 258px 16px 16px;
