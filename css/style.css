@@ -1093,7 +1093,8 @@ body.dark-theme {
     border-radius: 238px 238px 12px 12px;
   }
 
-  .value__img img {
+  .value__img img,
+  .contact__img img {
     max-width: initial;
     width: 490px;
   }
