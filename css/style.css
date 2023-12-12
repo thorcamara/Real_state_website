@@ -1099,7 +1099,8 @@ body.dark-theme {
     width: 490px;
   }
 
-  .value__description {
+  .value__description,
+  .contact__description {
     font-size: var(--normal-font-size);
     margin-bottom: 2.5rem;
   }
