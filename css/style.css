@@ -1117,4 +1117,8 @@ body.dark-theme {
     padding-bottom: 1rem;
     font-size: var(--small-font-size);
   }
+
+  .contact__card {
+    grid-template-columns: repeat(2, 200px);
+  }
 }
