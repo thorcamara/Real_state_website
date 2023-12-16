@@ -1131,4 +1131,9 @@ body.dark-theme {
     border-radius: 2rem;
     border: 12px solid var(--first-color-light);
   }
+
+  .subscribe__title {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
 }
