@@ -1145,4 +1145,8 @@ body.dark-theme {
   .subscribe__button {
     font-size: var(--normal-font-size);
   }
+
+  .footer__content {
+    grid-template-columns: repeat(4, max-content);
+  }
 }
