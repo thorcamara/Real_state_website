@@ -1149,4 +1149,8 @@ body.dark-theme {
   .footer__content {
     grid-template-columns: repeat(4, max-content);
   }
+
+  .footer__title {
+    margin-bottom: 1.5rem;
+  }
 }
